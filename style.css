@@ -119,6 +119,13 @@ body {font-family: Verdana, sans-serif;}
   height: 100%;
 }
 
+.Video {
+  position: relative;
+  margin-top: -21%;
+  margin-left: 60%;
+  padding-bottom: 50px;
+}
+
 .Youtube {
   padding: 160px 120px 40px 120px;
   background-image: url("ytbbg.png");
